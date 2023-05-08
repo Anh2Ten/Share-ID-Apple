@@ -4,9 +4,9 @@ FREE ID APPLE WITH PAID GAME OR APP (LIVE STATUS ACCOUNT CHECK)
 ## API ZONE:
 https://dailythuonghien.com/blog/id/?acc=yunagrp.shareid@yunavpn.com&pass=Uchihaha@23
 
-REPLACE WITH YOUR INFO
+REPLACE WITH YOUR INFO ACCOUNT TO CHECK
 
-## Status:
+## Result Status:
 -               2FA IS ON  - Account Has Turn ON
 -               Account OK - Account IS GOOD Can Using
 -     ID or Password Wrong - Wrong Account or Password
