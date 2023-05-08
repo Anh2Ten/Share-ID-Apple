@@ -6,7 +6,7 @@ https://dailythuonghien.com/blog/id/?acc=yunagrp.shareid@yunavpn.com&pass=Uchiha
 
 REPLACE WITH YOUR INFO
 
-THERE HAVE 3 Status:
+## Status:
 -               2FA IS ON  - Account Has Turn ON
 -               Account OK - Account IS GOOD Can Using
 -     ID or Password Wrong - Wrong Account or Password
