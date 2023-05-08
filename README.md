@@ -1,7 +1,7 @@
 # Share-ID-Apple
 FREE ID APPLE WITH PAID GAME OR APP (LIVE STATUS ACCOUNT CHECK)
 
-IF You Can Made Front-End Just Pull Request IT OR Clone It
+
 
 THERE HAVE 3 Status:
 -               2FA IS ON  - Account Has Turn ON
@@ -16,3 +16,4 @@ THERE HAVE 3 Status:
 
 /Share Account (Contact Telegram Send Me ID & Pass) Will Update To GitHub Soon
 
+IF You Can Made Front-End Just Pull Request IT OR Clone It
