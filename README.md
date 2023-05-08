@@ -8,8 +8,11 @@ THERE HAVE 3 Status:
 -               Account OK - Account IS GOOD Can Using
 -     ID or Password Wrong - Wrong Account or Password
 
-## Suport Me:
-Contact Me At [anh2ten telegram](https://t.me/Anh2Ten).
-MB Bank STK: 3893662005 Le Thi Thuong [ VietNamese Only :> ]
+## Suport Me: (DONATE ACCOUNT FOR SHARE TO EVERY ONE or Buy Me A Coffe)
 
+-Contact Me At [anh2ten telegram](https://t.me/Anh2Ten).
+
+-MB Bank STK: 3893662005 Le Thi Thuong [ VietNamese Only :> ]
+
+/Share Account (Contact Telegram Send Me ID & Pass) Will Update To GitHub Soon
 
