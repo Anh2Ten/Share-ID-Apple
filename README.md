@@ -7,7 +7,7 @@ https://dailythuonghien.com/blog/id/?acc=yunagrp.shareid@yunavpn.com&pass=Uchiha
 REPLACE WITH YOUR INFO ACCOUNT TO CHECK
 
 ## Result Status:
--               2FA IS ON  - Account Has Turn ON
+-               2FA IS ON  - Account Has Turn ON 2FA
 -               Account OK - Account IS GOOD Can Using
 -     ID or Password Wrong - Wrong Account or Password
 
@@ -19,4 +19,4 @@ REPLACE WITH YOUR INFO ACCOUNT TO CHECK
 
 /Share Account (Contact Telegram Send Me ID & Pass) Will Update To GitHub Soon
 
-IF You Can Made Front-End Just Pull Request IT OR Clone It
+IF u Can Made Front-End Just Pull Request IT OR Clone It
