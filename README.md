@@ -13,6 +13,7 @@ REPLACE WITH YOUR INFO ACCOUNT TO CHECK
 -               2FA IS ON  - Account Has Turn ON 2FA
 -               Account OK - Account IS GOOD Can Using
 -     ID or Password Wrong - Wrong Account or Password
+-     Account Has Been Lock - Your Account Has Been Lock
 
 ## Suport Me: (DONATE ACCOUNT FOR SHARE TO EVERY ONE or Buy Me A Coffe)
 
