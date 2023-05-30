@@ -2,10 +2,10 @@
 FREE ID APPLE WITH PAID GAME OR APP (LIVE STATUS ACCOUNT CHECK)
 
 ## API ZONE:
-https://dailythuonghien.com/blog/id/?{account}&{password}
+https://dailythuonghien.com/blog/id/?acc={account}&pass={password}
 
-
-https://dailythuonghien.com/blog/id/?yunagrp.shareid@yunavpn.com&Uchihaha@23
+EXAMPLE:
+https://dailythuonghien.com/blog/id/?acc=yuna.php?yunagrp.shareid@yunavpn.com&pass=Uchihaha@23
 
 REPLACE WITH YOUR INFO ACCOUNT TO CHECK
 
